@@ -18,7 +18,8 @@ Some textbooks may have been updated since the download date (May 2024); see scr
 - [Python for You and Me - Kushal Das](https://pymbook.readthedocs.io/en/latest/)
 - [Data Science Desktop Survival Guide - G Williams](https://onepager.togaware.com/) - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Think Python 3rd Edition- Allan Downey](https://allendowney.github.io/ThinkPython/)
-
+- [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know) - [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) - [...and 67 more](https://web.archive.org/web/20180306024034/http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions) - see also: [Software Architects](https://web.archive.org/web/20180306024034/http://oreilly.com/catalog/9780596522698/) and [Project Managers](https://web.archive.org/web/20180306024034/http://oreilly.com/catalog/9780596804169/)
+- [How to Design Programs - An Introduction to Programming and Computing, Second Edition - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode) - [CC BY-ND-NC 2.0](http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)
 
 ### Acknowledgements
 - [Free Computer Books](https://freecomputerbooks.com/CS-for-All.html)
