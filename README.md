@@ -20,7 +20,7 @@ Some textbooks may have been updated since the download date (May 2024); see scr
 |[Python for You and Me](https://pymbook.readthedocs.io/en/latest/)|Kushal Das|||
 |[Think Python, 3rd ed.](https://allendowney.github.io/ThinkPython/)|Allan Downey||[Donation Link](https://www.paypal.com/webapps/shoppingcart?flowlogging_id=f64639802d5cf&mfid=1717449721982_f64639802d5cf#/checkout/openButton)|
 |[97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know) [...and 67 more](https://web.archive.org/web/20180306024034/http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions) - see also: [Software Architects](https://web.archive.org/web/20180306024034/http://oreilly.com/catalog/9780596522698/) and [Project Managers](https://web.archive.org/web/20180306024034/http://oreilly.com/catalog/9780596804169/)|Collaborative|[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)|-|
-|[How to Design Programs - An Introduction to Programming and Computing 2nd ed.](http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)|Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi|[CC BY-ND-NC 2.0](http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)|
+|[How to Design Programs - An Introduction to Programming and Computing 2nd ed.](http://htdp.org)|Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi|[CC BY-ND-NC 2.0](http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)|
 
 ### Acknowledgements
 - [Free Computer Books](https://freecomputerbooks.com/CS-for-All.html)
