@@ -1,5 +1,5 @@
 # Beginner-Computer-Data-Science-textbooks
-A small number of free textbooks not available as a PDF elsewhere, or as an outdated edition.
+A small number of free textbooks not available as a PDF elsewhere, or only as an outdated edition.
 
 Some textbooks may have been updated since the download date (May 2024); see scripts folder for scripts to download newer versions.
 
