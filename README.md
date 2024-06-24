@@ -4,9 +4,9 @@ A small number of free textbooks not available as a PDF elsewhere, or only as an
 Some textbooks may have been updated since the download date (May 2024); see scripts folder for scripts to download newer versions.
 
 ### Sources:
-|Book|Author|Language|Licence|Donations|
-|----|------|--------|-------|---------|
-|[Data Centric Introduction to Computing](https://dcic-world.org/)|Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz|Pyret / Python|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)||
+|Book|Author|Language|Licence|Donations|Notes|
+|----|------|--------|-------|---------|-----|
+|[Data Centric Introduction to Computing](https://dcic-world.org/)|Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz|Pyret / Python|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)||Unlike some other textbooks, this one does not follow a top-down narrative. Rather it has the flow of a conversation... We will include mistakes, not because we don’t know better, but because this is the best way for you to learn. Including mistakes makes it impossible for you to read passively: you must instead engage with the material, because you can never be sure of the veracity of what you’re reading.|
 |[The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)|Kenneth Reitz & collaborators|Python|[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)|-|
 |[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)|Jake VanderPlas|Python|[CC-BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode)|"If you find this content useful, please consider supporting the work by [buying the book](http://shop.oreilly.com/product/0636920034919.do)!"|
 |[Computer Science for All: An Introduction to Computer Science using Python](https://web.archive.org/web/20190910144836/https://www.cs.hmc.edu/csforallbook/Introduction/Introduction.html)|Christine Alvarado, et al.|Python|None||
