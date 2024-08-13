@@ -21,6 +21,7 @@ Some textbooks may have been updated since the download date (May 2024); see scr
 |[97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know) [...and 67 more](https://web.archive.org/web/20180306024034/http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions) - see also: [Software Architects](https://web.archive.org/web/20180306024034/http://oreilly.com/catalog/9780596522698/) and [Project Managers](https://web.archive.org/web/20180306024034/http://oreilly.com/catalog/9780596804169/)|Collaborative|-|[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)|-|
 |[Exploratory Data Analysis - NIST eHandbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)|NIST / SEMATECH||Public information|||Oct 2023|
 |[Probability and Bayesian Modeling](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)|Jim Albert and Jingchen Hu|||||2020-07-30|
+|[Statistical Inference for Data Science](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)|Brian Caffo|R|[CC BY-NC-SA  3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)|[Available to buy](http://leanpub.com/LittleInferenceBook)||2020|
 
 ### SEE ALSO:
 - [Byte of Python - SwaroopCH](https://python.swaroopch.com/)
